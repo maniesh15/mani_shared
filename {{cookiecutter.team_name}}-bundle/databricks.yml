@@ -1,0 +1,3 @@
+bundle:
+  name: "{{cookiecutter.team_name}}"
+  team_code: "{{cookiecutter.team_code}}"
